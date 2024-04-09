@@ -15,8 +15,12 @@ Two scripts were tested in an environment with PyTorch 2.0.1, CUDA 11.8, and Pyt
 ## Reference
 Ganghua Wang, Xun Xian, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, and Jie Ding. “Demystifying Poisoning Backdoor Attacks from a Statistical Perspective,” International Conference on Learning Representations (ICLR), 2024. [link](https://openreview.net/pdf?id=BPHcEpGvF8)
 
-```bash
-@article{wang2024demystify, title={Demystifying Poisoning Backdoor Attacks from a Statistical Perspective}, author={Wang, Ganghua and Xian, Xun and Srinivasa, Jayanth and Kundu, Ashish and Bi, Xuan and Hong, Mingyi and Ding, Jie}, journal={Proc. ICLR}, year={2024} }
+```
+@article{wang2024demystify,
+   title={Demystifying Poisoning Backdoor Attacks from a Statistical Perspective},
+   author={Wang, Ganghua and Xian, Xun and Srinivasa, Jayanth and Kundu, Ashish and Bi, Xuan and Hong, Mingyi and Ding, Jie},
+   journal={Proc. ICLR},
+   year={2024} }
 ```
 
 ## Contact
