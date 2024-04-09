@@ -9,6 +9,8 @@ We develop a theoretic understanding of the factors contributing to effective po
 - `src/experiment.py`: Run the experiments on synthetic two-dimensional Gaussian datasets.
 - `src/diffusion_backdoor.ipynb`: Backdoor attacks for diffusion models on MNIST.
 
+Two scripts were tested in an environment with PyTorch 2.0.1, CUDA 11.8, and Python 3.10.
+
   
 ## Reference
 Ganghua Wang, Xun Xian, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, and Jie Ding. “Demystifying Poisoning Backdoor Attacks from a Statistical Perspective,” International Conference on Learning Representations (ICLR), 2024. [link](https://openreview.net/pdf?id=BPHcEpGvF8)
