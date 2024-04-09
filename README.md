@@ -7,7 +7,9 @@ We develop a theoretic understanding of the factors contributing to effective po
 ## Files
 
 - `src/experiment.py`: Run the experiments on synthetic two-dimensional Gaussian datasets.
+- `src/diffusion_backdoor.ipynb`: Backdoor attacks for diffusion models on MNIST.
 
+  
 ## Reference
 Ganghua Wang, Xun Xian, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, and Jie Ding. “Demystifying Poisoning Backdoor Attacks from a Statistical Perspective,” International Conference on Learning Representations (ICLR), 2024. [link](https://openreview.net/pdf?id=BPHcEpGvF8)
 
@@ -16,4 +18,7 @@ Ganghua Wang, Xun Xian, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, a
 ```
 
 ## Contact
+
+If you have any questions, please feel free to contact us or submit an issue.
 Ganghua Wang: wang9019@umn.edu
+Xun Xian: xian0044@umn.edu
